@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Álbum CD New Jeans | GiftHub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .product {
+            text-align: center;
+            margin: 2em 0;
+        }
+        .product img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .product h1 {
+            color: #e67e22;
+            font-size: 2.5em;
+        }
+        .product p {
+            font-size: 1.2em;
+            line-height: 1.6;
+            margin: 1em 0;
+        }
+        .cta {
+            margin: 2em 0;
+            text-align: center;
+        }
+        .cta a {
+            display: inline-block;
+            text-decoration: none;
+            color: #fff;
+            background: #e67e22;
+            padding: 1em 2em;
+            font-size: 1.2em;
+            border-radius: 5px;
+            transition: background 0.3s ease;
+        }
+        .cta a:hover {
+            background: #d35400;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>GiftHub</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <section class="product">
+            <img src="link-para-imagem-do-album.jpg" alt="Álbum CD New Jeans">
+            <h1>Álbum CD New Jeans</h1>
+            <p>Descubra o novo álbum da aclamada banda New Jeans! Este CD inclui todas as faixas favoritas dos fãs e muito mais. Com uma produção impecável e uma arte de capa exclusiva, é o item perfeito para qualquer colecionador de música.</p>
+        </section>
+
+        <div class="cta">
+            <a href="link-para-compra-ou-inscricao.html">Compre Agora</a>
+        </div>
+    </div>
+</body>
+</html>
